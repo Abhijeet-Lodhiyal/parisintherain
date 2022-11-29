@@ -3,7 +3,7 @@
 
         "key":"1",    
         "heading":"Places",
-        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit metus urna, in condimentum massa luctus id. Ut vel ornare massa. Etiam vitae nulla dolor. Aenean a congue enim, sed rhoncus enim. Sed tincidunt dolor sit amet leo hendrerit, at tincidunt orci tincidunt. Fusce finibus odio sed felis vehicula consectetur. Nunc bibendum dolor in tortor elementum, dictum lobortis urna pretium. Nullam sodales neque quis orci maximus, ac porta tortor iaculis. Proin eu mollis dolor. Aliquam erat volutpat. Integer ac felis viverra, fringilla erat in, scelerisque sem. Quisque vel velit ut odio vulputate tristique eu a nisl. Donec cursus mauris enim.",
+        "content":"Paris is the capital city and the most populated city in France. It is often referred to as the City of Lights because it was one of the first cities in Europe to have electricity.  Americans will often refer to Paris as the City of Love, but most Europeans reserve that title for Venice, Italy.  Paris is a beautiful city with a rich history and is one of the top tourist destinations in the world.  While the city can be congested at times, it isn’t overly difficult to navigate the streets.  I have often heard that the French were rude, but once I got out and around the city, I found that this wasn’t the case at all.",
         "img":"https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1646014740/qc3mqbm7nxx7udxsswyh.jpg",
         "url":"/places"
     },
@@ -11,7 +11,7 @@
 
         "key":"2",    
         "heading":"Cuisines",
-        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit metus urna, in condimentum massa luctus id. Ut vel ornare massa. Etiam vitae nulla dolor. Aenean a congue enim, sed rhoncus enim. Sed tincidunt dolor sit amet leo hendrerit, at tincidunt orci tincidunt. Fusce finibus odio sed felis vehicula consectetur. Nunc bibendum dolor in tortor elementum, dictum lobortis urna pretium. Nullam sodales neque quis orci maximus, ac porta tortor iaculis. Proin eu mollis dolor. Aliquam erat volutpat. Integer ac felis viverra, fringilla erat in, scelerisque sem. Quisque vel velit ut odio vulputate tristique eu a nisl. Donec cursus mauris enim.",
+        "content":"When it comes to French cuisine, my first thoughts were of sheer excitement. The rich foods, the robust flavors, the creamy ingredients, how can this not be amazing?  Maybe I set my expectations too high or didn’t find the right restaurant or dish, but I never found what I was looking for.  However, the pastries in Paris easily make up for anything I found lacking.  Add in the fact that there seemed to be a bakery on almost every corner, made for a lot of pit stops for croissants during my visits.",
         "img":"https://www.parisperfect.com/blog/wp-content/uploads/2019/10/A-Dozen-Classic-Savory-French-Dishes-you-should-Order-in-Paris-by-Paris-Perfect9.jpg",
         "url":"/cuisines"
     },
@@ -19,7 +19,7 @@
 
         "key":"3",    
         "heading":"Hotels",
-        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit metus urna, in condimentum massa luctus id. Ut vel ornare massa. Etiam vitae nulla dolor. Aenean a congue enim, sed rhoncus enim. Sed tincidunt dolor sit amet leo hendrerit, at tincidunt orci tincidunt. Fusce finibus odio sed felis vehicula consectetur. Nunc bibendum dolor in tortor elementum, dictum lobortis urna pretium. Nullam sodales neque quis orci maximus, ac porta tortor iaculis. Proin eu mollis dolor. Aliquam erat volutpat. Integer ac felis viverra, fringilla erat in, scelerisque sem. Quisque vel velit ut odio vulputate tristique eu a nisl. Donec cursus mauris enim.",
+        "content":"Paris is great, no lie. But, so is the rest of France, and it’s very accessible from the capital.The Versailles Palace is located just outside the capital and is easily accessible by train. A day trip here is a must. Other quintessentially French châteaus are also abundant across the country, and easily visitable from your base of Paris.And of course, Disneyland makes for a great day trip if you have kids to amuse or love Disney yourself.Alternatively, transport in France is great and other major cities such as Lyon and Bordeaux are easily accessible by train within hours. You really don’t want to travel to France and only see Paris because the country really has so much more to offer.",
         "img":"https://content.r9cdn.net/himg/5b/cc/8b/ice-100053252-0746998_3XL-452362.jpg",
         "url":"/hotels"
     },
@@ -27,7 +27,7 @@
 
         "key":"4",    
         "heading":"Transport",
-        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit metus urna, in condimentum massa luctus id. Ut vel ornare massa. Etiam vitae nulla dolor. Aenean a congue enim, sed rhoncus enim. Sed tincidunt dolor sit amet leo hendrerit, at tincidunt orci tincidunt. Fusce finibus odio sed felis vehicula consectetur. Nunc bibendum dolor in tortor elementum, dictum lobortis urna pretium. Nullam sodales neque quis orci maximus, ac porta tortor iaculis. Proin eu mollis dolor. Aliquam erat volutpat. Integer ac felis viverra, fringilla erat in, scelerisque sem. Quisque vel velit ut odio vulputate tristique eu a nisl. Donec cursus mauris enim.",
+        "content":"By far the best way to explore Paris is on foot. However, the public transport network in the city is excellent and offers a cost-effective and efficient way to get around.The buses, Metro and RER service all parts of the city, and the RER also offers transport to the suburbs including Versailles, and Charles de Gaulle and Orly airports.Metro tickets can be bought from all stations, individually or in discounted packs, and can be used for single journeys on the Metro, buses and RER within Zone 1. At the time of writing, it’s not possible to buy a Paris Metro 4 day pass. However, the 4 Day Paris City Pass is an excellent choice as it covers all your public transport needs and grants free access to 60 museums, exhibitions, and attractions in Paris.",
         "img":"https://www.aparisguide.com/flight-paris.jpg",
         "url":"/transportation"
     }
