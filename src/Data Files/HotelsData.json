@@ -1,0 +1,50 @@
+[
+    {
+        "key":"1",
+        "id":"1",
+        "heading":"Ritz Paris",
+        "content":"This is one of a small number of hotels so high and mighty they create their own weather system. Which made the ragging it got when it reopened in 2016, after a four-year revamp, all the more baffling. Some scoffed that it was a facsimile of its former self, smelling of fresh paint but virtually unchanged. But what exactly would have been gained if the Ritz had been remade in the image of a Nantucket shrimp shack or Buddhist monastery? It had stuck to its guns, and its critics were tilting at windmills. The Ritz remains, merci au bon Dieu, the Ritz, demonstrating that sometimes the most spectacular renovations are the least spectacular, though the hotel is as opulent today as at any time in its 122-year history. Yet even among the silks and tassels, a kind of democracy prevails. The smallest rooms are, by Parisian standards, generous, and differ from the mega-suites only in the scale, not the degree, of their sumptuousness. And it does not matter how rich, famous, or beautiful you are—the peerless Bar Hemingway still isn’t taking reservations.",
+        "price":"Suites starting from € 3,750.00",
+        "image":"https://media.cntraveler.com/photos/61e12ae954fe6df2acc90f89/master/w_1920%2Cc_limit/Bar-RitzParis-France-VincentLeroux.jpeg"
+    },
+    {
+        "key":"2",
+        "id":"2",
+        "heading":"Hotel Les Deux Gares",
+        "content":"It’s hard to imagine that a single corner of the French capital has been left unexplored by hoteliers over the past decade. But, as proven by Adrien Gloaguen’s latest spot in unsung Little India, there are still overlooked pockets to be happened upon. When he first visited the site, then a glum two-star number, and saw the skyline views over the train tracks linking two of the city’s main stations, he knew that he could make something special of it—and that the right person for the job would be British wunderkind Luke Edward Hall. The interior designer’s first hotel project is full of joy, with nods to the past everywhere but also contemporary excitement. The Haussmann-style corner building is awash with bold color combinations, which is what drew the creative crowd who booked out the place even before it opened. “It’s my own, very personal and playful take on Parisian style,” says Hall. French antiques sit next to mid-century lamps; checkerboard contrasts with leopard print, and there are seventies geometric carpets alongside Art-Deco details. Edward Hall also transformed the tired bar across the street into the Café Les Deux Gares. The bistro already has a following of locals and food writers who feast on a lunch menu of plates, such as succulent pork loin with beetroot, washed down with natural wines. It takes a bold move to persuade savvy travelers to loiter near the stations, but the duo behind this hotel have cracked it.",
+        "price":"Suite starting from $291",
+        "image":"https://media.cntraveler.com/photos/608b92d35e7a9305842b0fe6/master/w_1920%2Cc_limit/Ho%25CC%2582tel%2520Les%2520Deux%2520Gares%2520-%2520Benoi%25CC%2582t%2520Linero853%2520copie.jpg"
+    },
+    {
+        "key":"3",
+        "id":"3",
+        "heading":"Le Pavillon de la Reine",
+        "content":"The Marais neighborhood’s Place de Vosges has often been called one of the most beautiful squares in the world, so it’s a good thing that this family-owned hotel’s ivy-covered, 17th-century façade fits right in. The insides are pretty photo-worthy, too: past the extensive private garden courtyard—a fairytale come to life when all lit up—the interiors by Didier Benderli of Kérylos Interiors mix Old World touches like original antiques, marble fireplace mantles, and richly-colored oil portraits of aristocratic faces with contemporary-styled furnishings and clean lines, resulting in a vibe that’s both plush and un-fussy. Take note: The 56 rooms and suites each feature a different style and décor, so be sure to ask in advance if you prefer antique over modern, or vice-versa.",
+        "price":"Suite starting from $1,119",
+        "image":"https://media.cntraveler.com/photos/59de7f6b8bb50738a28d8a81/master/w_1920%2Cc_limit/Exterior1-LePavillondelaReine-ParisFrance-CRHotel.jpg"
+    },
+    {
+        "key":"4",
+        "id":"4",
+        "heading":"OFF Paris Seine",
+        "content":"Paris's first boat hotel puts you right on the Seine for a truly unique perspective. Designed by Parisian nautical architect Gérard Ronzatti, and constructed in Normandy, the purpose-built barge (one of the largest docked on the river) evokes an over-sized catamaran wrapped in glass and steel. The hub is the sleek bar/lounge, which stretches from the main deck up to the U-shaped upper level where, in good weather, locals and guests gather around the plunge pool for cocktails, tapas, and selfies on inflatable gold swans.",
+        "price":"Suite designer starting from $428",
+        "image":"https://media.cntraveler.com/photos/577d377fa08a7cb20551585b/master/w_1920%2Cc_limit/OFF-Paris-Seine-01-cr-Celine-Demoux.jpg"
+    },
+    {
+        "key":"5",
+        "id":"5",
+        "heading":"Le Roch Hotel & Spa",
+        "content":"Reflecting its surrounding area—where the Tuileries gardens, Place Vendôme and iconic Colette boutique mingle with residential buildings and neighborhood schools and churches—Le Roch tempers high design and haute cuisine with a relaxed, unassuming vibe. The first hotel project for designer Sarah Lavoine, known for her Parisian boutiques and lifestyle product collections, the tucked-away hotel opened in 2016 (pronounced “la rock”) and nails the home-away-from-home feel",
+        "price":"Superior Suite, 1 Double Bed (Indulgence Suite) starting from $1,175",
+        "image":"https://media.cntraveler.com/photos/5a7228de7b46480ab1d8ecf7/master/w_1920%2Cc_limit/Le-Roch__2018_Le-Roch-restaurant.jpg"
+    },
+    {
+        "key":"6",
+        "id":"6",
+        "heading":"Mandarin Oriental, Paris",
+        "content":"Transport yourself out of Paris with this high-gloss hotel, where the past—charming, though it is—doesn't trump the present. You might call it another elegance; but it makes sense that this would be the case at a Mandarin, where the codes for 'luxury' are different, where guests and staff alike swear by impeccable service from start to finish; stylish modern decor; and high-class dining and spa options. The unapologetically modern Thierry Marx overseeing Sur Mesure and Camélia is another way to bridge the divide: having him on board is a clear nod to the local culture and culinary prowess, but his inventiveness and diverse culinary background matches the hotel's contemporary spirit. Another feature that sets Mandarin apart? The to-go Cake Shop located at the entrance to Camélia, one of the only properties in Paris that has this on offer.",
+        "price":"Suite starting from $1038",
+        "image":"https://media.cntraveler.com/photos/61e12dc9ea6fd726d741bd98/master/w_1920%2Cc_limit/Suite-MandarinOrientalParis-ParisFrance-CRHotel.jpg"
+    }
+]

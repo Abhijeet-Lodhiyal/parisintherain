@@ -1,0 +1,35 @@
+[
+    {
+
+        "key":"1",    
+        "heading":"Places",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit metus urna, in condimentum massa luctus id. Ut vel ornare massa. Etiam vitae nulla dolor. Aenean a congue enim, sed rhoncus enim. Sed tincidunt dolor sit amet leo hendrerit, at tincidunt orci tincidunt. Fusce finibus odio sed felis vehicula consectetur. Nunc bibendum dolor in tortor elementum, dictum lobortis urna pretium. Nullam sodales neque quis orci maximus, ac porta tortor iaculis. Proin eu mollis dolor. Aliquam erat volutpat. Integer ac felis viverra, fringilla erat in, scelerisque sem. Quisque vel velit ut odio vulputate tristique eu a nisl. Donec cursus mauris enim.",
+        "img":"https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1646014740/qc3mqbm7nxx7udxsswyh.jpg",
+        "url":"/places"
+    },
+    {
+
+        "key":"2",    
+        "heading":"Cuisines",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit metus urna, in condimentum massa luctus id. Ut vel ornare massa. Etiam vitae nulla dolor. Aenean a congue enim, sed rhoncus enim. Sed tincidunt dolor sit amet leo hendrerit, at tincidunt orci tincidunt. Fusce finibus odio sed felis vehicula consectetur. Nunc bibendum dolor in tortor elementum, dictum lobortis urna pretium. Nullam sodales neque quis orci maximus, ac porta tortor iaculis. Proin eu mollis dolor. Aliquam erat volutpat. Integer ac felis viverra, fringilla erat in, scelerisque sem. Quisque vel velit ut odio vulputate tristique eu a nisl. Donec cursus mauris enim.",
+        "img":"https://www.parisperfect.com/blog/wp-content/uploads/2019/10/A-Dozen-Classic-Savory-French-Dishes-you-should-Order-in-Paris-by-Paris-Perfect9.jpg",
+        "url":"/cuisines"
+    },
+    {
+
+        "key":"3",    
+        "heading":"Hotels",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit metus urna, in condimentum massa luctus id. Ut vel ornare massa. Etiam vitae nulla dolor. Aenean a congue enim, sed rhoncus enim. Sed tincidunt dolor sit amet leo hendrerit, at tincidunt orci tincidunt. Fusce finibus odio sed felis vehicula consectetur. Nunc bibendum dolor in tortor elementum, dictum lobortis urna pretium. Nullam sodales neque quis orci maximus, ac porta tortor iaculis. Proin eu mollis dolor. Aliquam erat volutpat. Integer ac felis viverra, fringilla erat in, scelerisque sem. Quisque vel velit ut odio vulputate tristique eu a nisl. Donec cursus mauris enim.",
+        "img":"https://content.r9cdn.net/himg/5b/cc/8b/ice-100053252-0746998_3XL-452362.jpg",
+        "url":"/hotels"
+    },
+    {
+
+        "key":"4",    
+        "heading":"Transport",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent suscipit metus urna, in condimentum massa luctus id. Ut vel ornare massa. Etiam vitae nulla dolor. Aenean a congue enim, sed rhoncus enim. Sed tincidunt dolor sit amet leo hendrerit, at tincidunt orci tincidunt. Fusce finibus odio sed felis vehicula consectetur. Nunc bibendum dolor in tortor elementum, dictum lobortis urna pretium. Nullam sodales neque quis orci maximus, ac porta tortor iaculis. Proin eu mollis dolor. Aliquam erat volutpat. Integer ac felis viverra, fringilla erat in, scelerisque sem. Quisque vel velit ut odio vulputate tristique eu a nisl. Donec cursus mauris enim.",
+        "img":"https://www.aparisguide.com/flight-paris.jpg",
+        "url":"/transportation"
+    }
+    
+]

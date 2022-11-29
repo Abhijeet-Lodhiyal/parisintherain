@@ -1,0 +1,92 @@
+[
+    {
+        "key":"1",
+        "id":"1",
+        "price":"₹ 27,770",
+        "airline":"Srilankan Airlines UL | 196",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"18:35 \nTue, 24 Jan 23",
+        "arrival":"07:30 \nWed, 25 Jan 23"
+    }, 
+    {
+        "key":"2",
+        "id":"2",
+        "price":"₹ 30,936",
+        "airline":"Oman Air WY | 242",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"10:20 \nTue, 24 Jan 23",
+        "arrival":"19:25 \nTue, 24 Jan 23"
+    },
+    {
+        "key":"3",
+        "id":"3",
+        "price":"₹ 35,983",
+        "airline":"LOT Polish Airlines LO | 72",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"07:00 \nTue, 24 Jan 23",
+        "arrival":"18:55 \nTue, 24 Jan 23"
+    },
+    {
+        "key":"4",
+        "id":"4",
+        "price":"₹ 37,874",
+        "airline":"Emirates EK | 511",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"10:35 \nTue, 24 Jan 23",
+        "arrival":"19:30 \n Tue, 24 Jan 23"
+    },
+    {
+        "key":"5",
+        "id":"5",
+        "price":"₹ 44,434",
+        "airline":"Qatar Airways QR | 579",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"03:40 \nTue, 24 Jan 23",
+        "arrival":"20:30 \nTue, 24 Jan 23"
+    },
+    {
+        "key":"6",
+        "id":"6",
+        "price":"₹ 44,434",
+        "airline":"Qatar Airways QR | 579",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"03:40 \nTue, 24 Jan 23",
+        "arrival":"20:30 \nTue, 24 Jan 23"
+    },
+    {
+        "key":"7",
+        "id":"7",
+        "price":"₹ 44,434",
+        "airline":"Qatar Airways QR | 579",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"03:40 \nTue, 24 Jan 23",
+        "arrival":"20:30 \nTue, 24 Jan 23"
+    },
+    {
+        "key":"8",
+        "id":"8",
+        "price":"₹ 44,434",
+        "airline":"Qatar Airways QR | 579",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"03:40 \nTue, 24 Jan 23",
+        "arrival":"20:30 \nTue, 24 Jan 23"
+    },
+    {
+        "key":"9",
+        "id":"9",
+        "price":"₹ 44,434",
+        "airline":"Qatar Airways QR | 579",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"03:40 \nTue, 24 Jan 23",
+        "arrival":"20:30 \nTue, 24 Jan 23"
+    },
+    {
+        "key":"10",
+        "id":"10",
+        "price":"₹ 44,434",
+        "airline":"Qatar Airways QR | 579",
+        "location":"New Delhi to Paris , 24 Jan",
+        "departure":"03:40 \nTue, 24 Jan 23",
+        "arrival":"20:30 \nTue, 24 Jan 23"
+    }
+]
